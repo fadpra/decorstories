@@ -122,12 +122,12 @@ body {
 }
 
 .product h4 {
-    font-size: 14px;
+    font-size: 12.5px;
 }
 
 .product h5 {
     font-weight:300;
-    font-size: 12.5px;
+    font-size: 10px;
 }
 
 @media (max-width: 1024px) {
