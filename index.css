@@ -130,6 +130,15 @@ body {
     font-size: 10px;
 }
 
+.input {
+    width: 75%;
+    display: block;
+    margin: auto;
+    padding: 10px;
+    border-radius: 15px;
+    border-color: black;
+}
+
 @media (max-width: 1024px) {
     .product img {
         height: 60%;
